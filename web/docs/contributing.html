@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Cómo Contribuir al Proyecto Democracia Real">
+    <title>Cómo Contribuir - Democracia Real</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/docs.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="/" class="nav-logo">
+                <span class="logo-icon">◆</span>
+                <span class="logo-text">Democracia Real</span>
+            </a>
+            <button class="nav-toggle" aria-label="Menú" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="/#problema">El Problema</a></li>
+                <li><a href="/#propuesta">Propuesta</a></li>
+                <li><a href="/#pilares">Pilares</a></li>
+                <li><a href="/docs/" class="active">Documentación</a></li>
+                <li><a href="https://github.com/democracia-real/web" class="nav-link-github" target="_blank" rel="noopener">GitHub</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="docs-layout">
+        <aside class="docs-sidebar" id="docsSidebar">
+            <p class="docs-sidebar-title">Contribuir</p>
+            <nav class="docs-nav">
+                <a href="/docs/" class="docs-nav-item">← Volver a Docs</a>
+                <a href="/docs/contributing.html" class="docs-nav-item active">Cómo contribuir</a>
+            </nav>
+        </aside>
+
+        <main class="docs-content">
+            <div class="docs-header">
+                <h1 class="docs-title">Cómo Contribuir</h1>
+                <p class="docs-description">
+                    Este es un proyecto abierto y colaborativo. Tu aportación es bienvenida.
+                </p>
+            </div>
+
+            <div class="docs-body">
+                <h2>Tipos de contribución</h2>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Tipo</th>
+                            <th>Descripción</th>
+                            <th>Habilidades</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Investigación</td>
+                            <td>Aportar datos, estudios, análisis con fuentes</td>
+                            <td>Búsqueda, análisis</td>
+                        </tr>
+                        <tr>
+                            <td>Documentación</td>
+                            <td>Mejorar o ampliar contenido existente</td>
+                            <td>Redacción, Markdown</td>
+                        </tr>
+                        <tr>
+                            <td>Revisión</td>
+                            <td>Detectar errores, inconsistencias, mejoras</td>
+                            <td>Atención al detalle</td>
+                        </tr>
+                        <tr>
+                            <td>Propuestas</td>
+                            <td>Plantear soluciones a problemas identificados</td>
+                            <td>Conocimiento del tema</td>
+                        </tr>
+                        <tr>
+                            <td>Código</td>
+                            <td>Mejoras a la web o herramientas</td>
+                            <td>HTML, CSS, JS</td>
+                        </tr>
+                        <tr>
+                            <td>Difusión</td>
+                            <td>Compartir el proyecto</td>
+                            <td>Redes, comunicación</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h2>Principios de colaboración</h2>
+
+                <ul>
+                    <li><strong>Objetividad</strong> — Análisis basado en hechos, no en ideología</li>
+                    <li><strong>Rigor</strong> — Citar fuentes, reconocer limitaciones</li>
+                    <li><strong>Constructividad</strong> — Críticas acompañadas de alternativas</li>
+                    <li><strong>Respeto</strong> — Debate de ideas, no ataques personales</li>
+                </ul>
+
+                <h2>Proceso de contribución</h2>
+
+                <h3>Para cambios en documentación</h3>
+
+                <ol>
+                    <li><strong>Fork</strong> del repositorio en GitHub</li>
+                    <li><strong>Crea una rama</strong> para tu cambio (<code>git checkout -b mejora-seccion-x</code>)</li>
+                    <li><strong>Realiza los cambios</strong> siguiendo el formato existente</li>
+                    <li><strong>Commit</strong> con mensaje descriptivo</li>
+                    <li><strong>Push</strong> a tu fork</li>
+                    <li><strong>Abre un Pull Request</strong> explicando el cambio</li>
+                </ol>
+
+                <h3>Para propuestas o investigación</h3>
+
+                <ol>
+                    <li><strong>Abre un Issue</strong> describiendo la propuesta</li>
+                    <li><strong>Discusión</strong> con la comunidad</li>
+                    <li><strong>Desarrollo</strong> si hay consenso</li>
+                    <li><strong>Pull Request</strong> con el contenido</li>
+                </ol>
+
+                <h2>Formato de documentos</h2>
+
+                <p>Todos los documentos deben seguir esta estructura:</p>
+
+                <pre><code># Título
+
+## Resumen
+Breve descripción del contenido.
+
+## Análisis
+Desarrollo del tema con datos y fuentes.
+
+## Propuesta (si aplica)
+Solución concreta.
+
+## Fuentes
+- [Nombre](URL)
+- [Nombre](URL)</code></pre>
+
+                <h2>Criterios de aceptación</h2>
+
+                <ul>
+                    <li>Contenido alineado con los principios del proyecto</li>
+                    <li>Fuentes citadas para afirmaciones de hecho</li>
+                    <li>Formato consistente con el resto</li>
+                    <li>Sin contenido ideológico partidista</li>
+                    <li>Lenguaje claro y accesible</li>
+                </ul>
+
+                <h2>Código de conducta</h2>
+
+                <ul>
+                    <li>Respeto a todos los participantes</li>
+                    <li>Debate de ideas, no de personas</li>
+                    <li>Aceptar críticas constructivas</li>
+                    <li>Reconocer errores y corregir</li>
+                    <li>Cero tolerancia a discriminación</li>
+                </ul>
+
+                <blockquote>
+                    Si compartes el diagnóstico y quieres aportar soluciones, 
+                    este es tu proyecto. Bienvenido/a.
+                </blockquote>
+            </div>
+        </main>
+    </div>
+
+    <button class="docs-sidebar-toggle" aria-label="Mostrar menú" onclick="document.getElementById('docsSidebar').classList.toggle('active')">☰</button>
+    <script src="../js/main.js"></script>
+</body>
+</html>
