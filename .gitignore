@@ -29,6 +29,9 @@ local.settings.json
 # Carpeta scripts (herramientas locales, no subir)
 scripts/
 
+# Azure Function App (se despliega por separado)
+function-app/
+
 # Logs
 *.log
 logs/

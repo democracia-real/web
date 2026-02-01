@@ -1026,7 +1026,8 @@ img {
 .chat-message.user {
     align-self: flex-end;
     background: var(--accent-primary);
-    color: var(--bg-primary);
+    color: #0a0a0a;
+    font-weight: 500;
     border-bottom-right-radius: 4px;
 }
 
@@ -1071,9 +1072,9 @@ img {
 }
 
 .chat-suggestions .suggestion {
-    background: transparent;
+    background: rgba(255, 255, 255, 0.05);
     border: 1px solid var(--border-color);
-    color: var(--text-secondary);
+    color: var(--text-primary);
     padding: 8px 12px;
     border-radius: 20px;
     font-size: 12px;
