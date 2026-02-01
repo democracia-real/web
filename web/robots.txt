@@ -1,11 +1,11 @@
 # Proyecto Democracia Real
-# https://mango-smoke-01deeab03.6.azurestaticapps.net (o tu dominio)
+# https://witty-pebble-017cf3f03.2.azurestaticapps.net (o tu dominio)
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://mango-smoke-01deeab03.6.azurestaticapps.net/sitemap.xml
+Sitemap: https://witty-pebble-017cf3f03.2.azurestaticapps.net/sitemap.xml
 
 # Crawl-delay opcional (evita sobrecarga)
 Crawl-delay: 1
