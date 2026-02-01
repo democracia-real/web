@@ -35,6 +35,9 @@ function-app/
 # Logs
 *.log
 logs/
+function-logs/
+function-logs-new/
+function-logs.zip
 
 # Dependencias (si se añaden en el futuro)
 node_modules/

@@ -7,6 +7,7 @@
     const API_ENDPOINT = 'https://democracia-chat-function.azurewebsites.net/api/chat';
     let conversationId = null;
     let isOpen = false;
+    let isExpanded = false;
 
     // Crear el HTML del chat
     function createChatWidget() {
@@ -21,7 +22,17 @@
             <div id="chat-container" class="chat-hidden">
                 <div id="chat-header">
                     <span>Asistente Democracia Real</span>
-                    <button id="chat-close" aria-label="Cerrar chat">&times;</button>
+                    <div class="chat-header-buttons">
+                        <button id="chat-expand" aria-label="Expandir chat" title="Pantalla completa">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="15 3 21 3 21 9"></polyline>
+                                <polyline points="9 21 3 21 3 15"></polyline>
+                                <line x1="21" y1="3" x2="14" y2="10"></line>
+                                <line x1="3" y1="21" x2="10" y2="14"></line>
+                            </svg>
+                        </button>
+                        <button id="chat-close" aria-label="Cerrar chat">&times;</button>
+                    </div>
                 </div>
                 <div id="chat-messages">
                     <div class="chat-message bot">
@@ -67,7 +78,15 @@
         }
         
         messagesContainer.appendChild(messageDiv);
-        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        
+        // Para mensajes del usuario, scroll al final
+        // Para mensajes del bot, scroll al inicio del mensaje nuevo
+        if (isUser) {
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        } else {
+            // Scroll suave al inicio del nuevo mensaje
+            messageDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
     }
 
     // Mostrar indicador de carga
@@ -140,6 +159,41 @@
             container.classList.remove('chat-visible');
             container.classList.add('chat-hidden');
             toggle.classList.remove('chat-open');
+            // Si está expandido, contraerlo al cerrar
+            if (isExpanded) {
+                toggleExpand();
+            }
+        }
+    }
+
+    // Expandir/contraer a pantalla completa
+    function toggleExpand() {
+        const container = document.getElementById('chat-container');
+        const expandBtn = document.getElementById('chat-expand');
+        isExpanded = !isExpanded;
+        
+        if (isExpanded) {
+            container.classList.add('chat-expanded');
+            expandBtn.innerHTML = `
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="4 14 10 14 10 20"></polyline>
+                    <polyline points="20 10 14 10 14 4"></polyline>
+                    <line x1="14" y1="10" x2="21" y2="3"></line>
+                    <line x1="3" y1="21" x2="10" y2="14"></line>
+                </svg>
+            `;
+            expandBtn.title = 'Reducir';
+        } else {
+            container.classList.remove('chat-expanded');
+            expandBtn.innerHTML = `
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="15 3 21 3 21 9"></polyline>
+                    <polyline points="9 21 3 21 3 15"></polyline>
+                    <line x1="21" y1="3" x2="14" y2="10"></line>
+                    <line x1="3" y1="21" x2="10" y2="14"></line>
+                </svg>
+            `;
+            expandBtn.title = 'Pantalla completa';
         }
     }
 
@@ -148,6 +202,7 @@
         // Toggle chat
         document.getElementById('chat-toggle').addEventListener('click', toggleChat);
         document.getElementById('chat-close').addEventListener('click', toggleChat);
+        document.getElementById('chat-expand').addEventListener('click', toggleExpand);
 
         // Enviar mensaje
         const input = document.getElementById('chat-input');

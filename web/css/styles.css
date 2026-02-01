@@ -991,6 +991,30 @@ img {
     color: var(--text-primary);
 }
 
+.chat-header-buttons {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+#chat-expand {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.2s;
+    border-radius: 4px;
+}
+
+#chat-expand:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.1);
+}
+
 #chat-close {
     background: none;
     border: none;
@@ -1004,6 +1028,21 @@ img {
 
 #chat-close:hover {
     color: var(--text-primary);
+}
+
+/* Modo pantalla completa */
+#chat-container.chat-expanded {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    max-width: 100vw;
+    height: 100vh;
+    max-height: 100vh;
+    border-radius: 0;
+    z-index: 10000;
 }
 
 #chat-messages {
