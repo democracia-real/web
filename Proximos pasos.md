@@ -1,75 +1,49 @@
 # Próximos Pasos del Proyecto
 
+*Última actualización: 1 de febrero 2026*
+
 ## Resumen de Estado Actual
 
 ### Completado ✅
 
 | Área | Estado | Notas |
 |------|--------|-------|
-| **Documentación base** | ✅ | 8 módulos con 27+ documentos |
+| **Documentación base** | ✅ | 8 módulos con 33 documentos |
 | **Web estática (SWA)** | ✅ | Desplegada en democraciareal.es |
 | **Dominio personalizado** | ✅ | democraciareal.es (DNS en Cloudflare) |
 | **Chatbot IA** | ✅ | Azure Function + Foundry Agent funcionando |
-| **Indexación RAG** | ✅ | Script local para Azure AI Search |
+| **Indexación RAG** | ✅ | 33 documentos indexados en Azure AI Search |
 | **i18n básico** | ✅ | ES, CA, EU, GL, EN (landing page) |
 | **SEO básico** | ✅ | robots.txt, sitemap.xml, meta tags |
 | **Documento pensiones** | ✅ | Diagnóstico + propuesta de reforma |
-
-### En Progreso 🔄
-
-| Tarea | Estado | Siguiente acción |
-|-------|--------|------------------|
-| **Chat expandible** | 🔄 | Código listo, pendiente commit/push |
-| **Limpiar citas [source]** | ⏳ | Decidir si limpiar o estilizar |
-| **Re-indexar contenido** | ⏳ | Ejecutar script tras añadir pensiones |
+| **Chat expandible** | ✅ | Botón para pantalla completa |
+| **Limpiar citas [source]** | ✅ | Regex elimina referencias del chat |
+| **Esqueletos nuevos temas** | ✅ | Sanidad, educación, energía (con [PENDIENTE]) |
 
 ---
 
-## Pendiente Inmediato
+## Siguiente Fase: Investigación Profunda
 
-### 1. Commit y Deploy Pendiente
+### Documentos con [PENDIENTE] para Rellenar
 
-Archivos modificados sin subir:
-- `web/js/chat.js` - Scroll mejorado + botón expandir
-- `web/css/styles.css` - Estilos chat expandible
-- `.gitignore` - Excluir logs de Azure
-- `02_problemas_estructurales/sistema_pensiones.md` - NUEVO
-- `03_propuestas_institucionales/reforma_pensiones.md` - NUEVO
-- READMEs actualizados
+| Documento | Datos que faltan | Prioridad |
+|-----------|------------------|-----------|
+| `sanidad.md` | Listas espera, ratios, comparativa UE | Alta |
+| `educacion.md` | Resultados PISA, abandono escolar, leyes | Alta |
+| `energia.md` | Precios kWh, mix renovable, oligopolio | Alta |
+| `corrupcion_e_impunidad.md` | Coste % PIB, casos recientes | Alta |
+| `autonomos_y_emprendimiento.md` | Días/coste abrir empresa vs UE | Media |
 
-### 2. Re-indexar Documentos
+### Preguntas de Investigación
 
-Tras hacer push, ejecutar:
-```bash
-cd scripts
-python index_to_azure_search.py
-```
-
-Esto actualizará el índice de Azure AI Search con los nuevos documentos de pensiones.
-
----
-
-## Siguiente Fase: Contenido y Comunicación
-
-### Prioridades
-
-| # | Tarea | Impacto | Esfuerzo |
-|---|-------|---------|----------|
-| 1 | **Redes sociales** - Crear perfiles X, Telegram | Alto | Bajo |
-| 2 | **Investigación profunda** - Datos reales para documentos | Alto | Alto |
-| 3 | **Traducción completa** - i18n de docs, no solo landing | Medio | Alto |
-| 4 | **Más propuestas** - Sanidad, educación, energía | Alto | Alto |
-| 5 | **Vídeos explicativos** - YouTube/TikTok | Alto | Medio |
-
-### Investigación Pendiente
-
-| # | Pregunta | Impacto |
-|---|----------|---------|
-| 1 | ¿Cuál es el coste real de la corrupción en España (% PIB)? | Alto |
-| 2 | ¿Cuántos días/euros cuesta abrir una empresa vs. media UE? | Alto |
-| 3 | ¿Qué porcentaje de legislación se aprueba por decreto-ley? | Alto |
-| 4 | Datos actualizados del sistema de pensiones | Alto |
-| 5 | ¿Qué experiencias de IA en administración pública existen? | Alto |
+| # | Pregunta | Fuentes sugeridas |
+|---|----------|-------------------|
+| 1 | ¿Cuál es el coste real de la corrupción en España (% PIB)? | Transparency Int., estudios académicos |
+| 2 | ¿Cuántos días/euros cuesta abrir una empresa vs. media UE? | Doing Business, Eurostat |
+| 3 | Resultados PISA España 2022/2024 y tendencia | OCDE |
+| 4 | Listas de espera sanitarias por CCAA | Ministerio Sanidad, SNS |
+| 5 | Mix energético actual y precios vs UE | REE, Eurostat, CNMC |
+| 6 | ¿Qué experiencias de IA en administración pública existen? | Estonia, Singapur, UK |
 
 ---
 
@@ -96,18 +70,24 @@ Esto actualizará el índice de Azure AI Search con los nuevos documentos de pen
 
 ## Fases Posteriores
 
-### Fase 3: Expansión de Contenido
-- Más documentos de diagnóstico (sanidad, educación, energía)
-- Investigación con datos reales
-- Casos documentados con fuentes
+### Fase 3: Expansión de Contenido (ACTUAL)
+- ✅ Esqueletos creados (sanidad, educación, energía)
+- ⏳ Rellenar con datos reales (investigación)
+- ⏳ Propuestas para cada área
+- ⏳ Casos documentados con fuentes
 
-### Fase 4: Constitución Legal
+### Fase 4: Comunicación
+- Crear perfiles en redes sociales
+- Primeros hilos explicativos
+- Vídeos cortos divulgativos
+
+### Fase 5: Constitución Legal
 - Reunir 3 promotores mínimo
 - Redactar estatutos definitivos
 - Acta notarial
 - Inscripción en Registro de Partidos
 
-### Fase 5: Lanzamiento Público
+### Fase 6: Lanzamiento Público
 - Campaña en redes sociales
 - Afiliación abierta
 - Expansión territorial
@@ -121,16 +101,31 @@ Esto actualizará el índice de Azure AI Search con los nuevos documentos de pen
 | **Azure SWA** | witty-pebble... | ✅ Activo |
 | **Azure Function** | democracia-chat-function | ✅ Activo |
 | **Azure AI Foundry** | agentedemocracia | ✅ Activo |
-| **Azure AI Search** | Índice RAG | ✅ Activo |
+| **Azure AI Search** | democracia-docs (33 docs) | ✅ Activo |
 | **Cloudflare** | DNS democraciareal.es | ✅ Activo |
 | **GitHub** | democracia-real/web | ✅ Activo |
 
 ---
 
-## Acciones Inmediatas Sugeridas
+## Comandos Útiles
 
-1. **Hacer commit/push** de los cambios pendientes
-2. **Re-indexar** el contenido de pensiones
-3. **Probar el chat** con preguntas sobre pensiones
-4. **Crear cuenta X/Twitter** del proyecto
-5. **Elegir siguiente tema** a desarrollar (sanidad, educación, energía, etc.)
+### Re-indexar documentos (tras añadir/modificar .md)
+```bash
+cd scripts
+/c/Users/javie/AppData/Local/Programs/Python/Python312/python.exe index_to_azure_search.py
+```
+
+### Desplegar Azure Function (tras modificar function-app/)
+```bash
+cd function-app
+func azure functionapp publish democracia-chat-function
+```
+
+---
+
+## Acciones Sugeridas para Próxima Sesión
+
+1. **Investigación profunda** - Elegir un tema (sanidad/educación/energía/corrupción)
+2. **Buscar datos reales** - Rellenar los [PENDIENTE] con fuentes
+3. **Crear cuenta X/Twitter** - Empezar presencia en redes
+4. **Probar el chat** - Verificar que responde sobre pensiones
