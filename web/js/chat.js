@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-    const API_ENDPOINT = '/api/chat';
+    const API_ENDPOINT = 'https://democracia-chat-function.azurewebsites.net/api/chat';
     let conversationId = null;
     let isOpen = false;
 
