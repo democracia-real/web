@@ -64,8 +64,10 @@
         const messageDiv = document.createElement('div');
         messageDiv.className = `chat-message ${isUser ? 'user' : 'bot'}`;
         
-        // Convertir markdown basico a HTML
+        // Convertir markdown basico a HTML y limpiar citas de fuentes
         let formattedText = text
+            .replace(/【\d+:\d+†source】/g, '') // Limpiar citas tipo 【4:2†source】
+            .replace(/\[\d+:\d+†source\]/g, '') // Limpiar citas tipo [4:2†source]
             .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
             .replace(/\n/g, '<br>');
         

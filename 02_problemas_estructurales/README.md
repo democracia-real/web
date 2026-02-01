@@ -23,6 +23,9 @@ Este módulo documenta los **problemas estructurales** del sistema político-adm
 | [autonomos_y_emprendimiento.md](autonomos_y_emprendimiento.md) | Frenos al emprendimiento |
 | [fondos_europeos.md](fondos_europeos.md) | Despilfarro e ineficiencia en proyectos UE |
 | [sistema_pensiones.md](sistema_pensiones.md) | Insostenibilidad del sistema de reparto |
+| [sanidad.md](sanidad.md) | Fragmentación y listas de espera |
+| [educacion.md](educacion.md) | Inestabilidad legislativa y resultados |
+| [energia.md](energia.md) | Precios, oligopolio y transición renovable |
 
 ## Mapa de Problemas
 
