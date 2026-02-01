@@ -19,6 +19,7 @@ Este módulo presenta **propuestas concretas de reforma** para abordar los probl
 | [reforma_administrativa.md](reforma_administrativa.md) | Eficiencia de la administración |
 | [reforma_fiscal.md](reforma_fiscal.md) | Sistema tributario y autónomos |
 | [planificacion_largo_plazo.md](planificacion_largo_plazo.md) | Visión de Estado a 10-20 años |
+| [reforma_pensiones.md](reforma_pensiones.md) | Sistema de pensiones sostenible |
 
 ## Principios de las Propuestas
 

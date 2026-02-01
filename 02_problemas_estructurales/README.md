@@ -22,6 +22,7 @@ Este módulo documenta los **problemas estructurales** del sistema político-adm
 | [vivienda.md](vivienda.md) | Crisis de acceso a la vivienda |
 | [autonomos_y_emprendimiento.md](autonomos_y_emprendimiento.md) | Frenos al emprendimiento |
 | [fondos_europeos.md](fondos_europeos.md) | Despilfarro e ineficiencia en proyectos UE |
+| [sistema_pensiones.md](sistema_pensiones.md) | Insostenibilidad del sistema de reparto |
 
 ## Mapa de Problemas
 
