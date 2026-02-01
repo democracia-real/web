@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "",
+    "AGENT_ENDPOINT": "https://tu-recurso.services.ai.azure.com/api/projects/tu-proyecto/applications/tu-agente/protocols/openai/responses",
+    "AGENT_API_KEY": "tu-api-key-aqui"
+  }
+}

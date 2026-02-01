@@ -19,11 +19,15 @@ notas-personales/
 
 # Credenciales y secretos
 .env
-.env.*
+.env.local
 *.pem
 *.key
 credentials.json
 secrets.json
+local.settings.json
+
+# Carpeta scripts (herramientas locales, no subir)
+scripts/
 
 # Logs
 *.log
@@ -41,3 +45,10 @@ build/
 # Archivos temporales
 *.tmp
 *.temp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
