@@ -26,6 +26,7 @@ Este módulo documenta los **problemas estructurales** del sistema político-adm
 | [sanidad.md](sanidad.md) | Fragmentación y listas de espera |
 | [educacion.md](educacion.md) | Inestabilidad legislativa y resultados |
 | [energia.md](energia.md) | Precios, oligopolio y transición renovable |
+| [seguridad_ciudadana_e_impunidad.md](seguridad_ciudadana_e_impunidad.md) | Ciberdelitos, hurtos, ocupación, fraude en prestaciones |
 
 ## Mapa de Problemas
 
