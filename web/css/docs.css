@@ -359,3 +359,253 @@
 .docs-toc a.active {
     color: var(--accent);
 }
+
+/* Páginas en preparación (stub) */
+.docs-stub-notice {
+    padding: var(--space-lg);
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: var(--space-lg);
+    color: var(--text-secondary);
+}
+
+/* ==========================================================================
+   Álbum de Diagnóstico - Reproductor y pistas
+   ========================================================================== */
+
+.album-section {
+    margin-top: var(--space-3xl);
+    padding: var(--space-2xl) 0;
+    border-top: 1px solid var(--border);
+}
+
+.album-section h2 {
+    margin-top: 0;
+}
+
+.album-intro {
+    font-size: 1.05rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-bottom: var(--space-xl);
+    max-width: 60ch;
+}
+
+/* Reproductor principal (general) */
+.album-player-hero {
+    background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-tertiary) 100%);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: var(--space-xl);
+    margin-bottom: var(--space-2xl);
+}
+
+.album-player-hero .album-player-title {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    margin-bottom: var(--space-sm);
+}
+
+.album-player-hero .album-player-subtitle {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin-bottom: var(--space-md);
+}
+
+.album-player-hero audio {
+    width: 100%;
+    max-width: 100%;
+    height: 40px;
+    margin-top: var(--space-sm);
+}
+
+.album-player-hero audio::-webkit-media-controls-panel {
+    background: var(--bg-secondary);
+}
+
+/* Lista de pistas */
+.album-tracks {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+}
+
+.album-track {
+    display: grid;
+    grid-template-columns: 48px 1fr auto;
+    gap: var(--space-md);
+    align-items: center;
+    padding: var(--space-lg);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.album-track:hover {
+    border-color: var(--border-light);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 640px) {
+    .album-track {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto;
+    }
+}
+
+.album-track-num {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--accent-glow);
+    color: var(--accent);
+    font-weight: 700;
+    font-size: 1rem;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+
+.album-track-info {
+    min-width: 0;
+}
+
+.album-track-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: var(--space-xs);
+    color: var(--text-primary);
+}
+
+.album-track-meta {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+.album-track-meta .album-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    background: var(--bg-tertiary);
+    border-radius: 4px;
+    margin-right: var(--space-xs);
+    color: var(--text-secondary);
+}
+
+.album-track-player {
+    min-width: 200px;
+}
+
+.album-track-player audio {
+    width: 100%;
+    min-width: 200px;
+    height: 36px;
+}
+
+.album-track-player audio::-webkit-media-controls-panel {
+    background: var(--bg-tertiary);
+}
+
+/* Placeholder cuando el audio no está disponible */
+.album-audio-proximamente {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 36px;
+    padding: var(--space-sm) var(--space-md);
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    background: var(--bg-tertiary);
+    border: 1px dashed var(--border);
+    border-radius: 6px;
+}
+
+.album-player-hero .album-audio-proximamente {
+    min-height: 40px;
+    width: 100%;
+}
+
+@media (max-width: 640px) {
+    .album-track-player {
+        min-width: 100%;
+    }
+    .album-track-player audio {
+        min-width: 100%;
+    }
+}
+
+/* Enlace a letra */
+.album-track-actions {
+    grid-column: 1 / -1;
+    margin-top: var(--space-sm);
+    padding-top: var(--space-sm);
+    border-top: 1px solid var(--border);
+}
+
+.album-track-actions a {
+    font-size: 0.9rem;
+    color: var(--accent);
+}
+
+.album-track-actions a:hover {
+    color: var(--accent-dim);
+}
+
+/* Sección de letras (acordeón) */
+.album-lyrics-section h2 {
+    margin-top: var(--space-3xl);
+}
+
+.album-lyrics-section details.album-lyrics-detail,
+.album-lyrics-section details {
+    margin-bottom: var(--space-md);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--bg-card);
+    overflow: hidden;
+}
+
+.album-lyrics-section details[open] {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 1px var(--accent-glow);
+}
+
+.album-lyrics-section summary {
+    padding: var(--space-md) var(--space-lg);
+    font-weight: 600;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+}
+
+.album-lyrics-section summary::-webkit-details-marker {
+    display: none;
+}
+
+.album-lyrics-section summary::before {
+    content: "▶";
+    font-size: 0.7rem;
+    color: var(--accent);
+    transition: transform var(--transition-fast);
+}
+
+.album-lyrics-section details[open] summary::before {
+    transform: rotate(90deg);
+}
+
+.album-lyrics-section .lyric-body {
+    padding: var(--space-lg);
+    padding-top: 0;
+    font-size: 0.9rem;
+    line-height: 1.75;
+    color: var(--text-secondary);
+    white-space: pre-line;
+    border-top: 1px solid var(--border);
+}

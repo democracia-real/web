@@ -17,6 +17,7 @@ Este módulo establece la **metodología de investigación continua** para ident
 | [tematicas_emergentes_y_modelos_programaticos.md](tematicas_emergentes_y_modelos_programaticos.md) | Temáticas a incluir en el programa y modelos de partidos de referencia (Pirata, Más País, Volt, Podemos) |
 | [mensaje_inclusivo_juventud.md](mensaje_inclusivo_juventud.md) | Hablar a todos los jóvenes; cambio real con derechos, sin dictaduras; no excluir por etiqueta |
 | [metodologia_ia.md](metodologia_ia.md) | Cómo la IA podría auditar el BOE (lobby) y verificar viabilidad técnica en presupuestos participativos |
+| [participacion_e_informacion_entretenida.md](participacion_e_informacion_entretenida.md) | Cómo atraer, enganchar e informar sin aburrir: canciones por tema, formatos que enganchan, participación e identificación |
 
 ## Principios de Investigación
 

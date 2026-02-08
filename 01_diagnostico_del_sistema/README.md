@@ -12,6 +12,7 @@ Este módulo analiza el estado actual del sistema político español desde una p
 | [separacion_poderes.md](separacion_poderes.md) | Ausencia real de división de poderes |
 | [sistema_electoral.md](sistema_electoral.md) | Deficiencias del sistema electoral actual |
 | [comparativa_internacional.md](comparativa_internacional.md) | España vs otros modelos democráticos |
+| [album_diagnostico.md](album_diagnostico.md) | Álbum de Diagnóstico: una canción por documento (setlist y letras) |
 
 ## Nota sobre Monarquía/República
 

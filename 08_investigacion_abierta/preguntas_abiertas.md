@@ -143,6 +143,17 @@ Vinculadas al diagnóstico del [módulo 02](../02_problemas_estructurales/README
 | 13.3 | ¿Cuál es la tasa real de reincidencia en hurto multirreincidente antes de que el delincuente pise la cárcel? (Reforma CP, falta de juzgados.) | Alta | Pendiente |
 | 13.4 | ¿Qué capacidad de almacenamiento (baterías/hidrógeno) necesita España para no perder/regalar excedente renovable mientras el ciudadano paga gas caro? | Alta | Pendiente |
 
+## Categoría: Comunicación, Participación e Identificación
+
+*Objetivo: no ser un partido típico y aburrido; atraer, enganchar e informar de forma entretenida. Ver [participacion_e_informacion_entretenida.md](participacion_e_informacion_entretenida.md).*
+
+| # | Pregunta | Prioridad | Estado |
+|---|----------|-----------|--------|
+| 14.1 | ¿Qué partidos o movimientos han usado música (más allá del himno) para explicar temas o propuestas? ¿Qué formatos (canción por tema, videoclip, colaboración con artistas) han funcionado? | Media | Pendiente |
+| 14.2 | ¿Qué mecanismos de participación (consultas, votaciones, crowdsourcing de ideas o contenidos) aumentan la identificación y el "esto lo hacemos entre todos"? | Alta | Pendiente |
+| 14.3 | ¿Qué formatos informan sin aburrir: vídeos cortos, pódcasts, hilos con datos, memes rigurosos? ¿Qué casos de éxito existen en política o educación cívica? | Alta | Pendiente |
+| 14.4 | ¿Cómo hacer que distintos perfiles (jóvenes, técnicos, padres, autónomos) se sientan identificados con el mismo proyecto? (Ver mensaje inclusivo.) | Alta | Pendiente |
+
 ## Formato de Respuesta
 
 Cada pregunta debe responderse con un documento que incluya:
