@@ -1,6 +1,6 @@
 # Próximos Pasos del Proyecto
 
-*Última actualización: 1 de febrero 2026*
+*Última actualización: 8 de febrero 2026*
 
 ## Resumen de Estado Actual
 
@@ -8,17 +8,24 @@
 
 | Área | Estado | Notas |
 |------|--------|-------|
-| **Documentación base** | ✅ | 8 módulos con 33 documentos |
+| **Documentación base** | ✅ | 8 módulos con 38+ documentos |
 | **Web estática (SWA)** | ✅ | Desplegada en democraciareal.es |
 | **Dominio personalizado** | ✅ | democraciareal.es (DNS en Cloudflare) |
 | **Chatbot IA** | ✅ | Azure Function + Foundry Agent funcionando |
-| **Indexación RAG** | ✅ | 33 documentos indexados en Azure AI Search |
+| **Indexación RAG** | ✅ | Documentos indexados en Azure AI Search |
 | **i18n básico** | ✅ | ES, CA, EU, GL, EN (landing page) |
 | **SEO básico** | ✅ | robots.txt, sitemap.xml, meta tags |
 | **Documento pensiones** | ✅ | Diagnóstico + propuesta de reforma |
 | **Chat expandible** | ✅ | Botón para pantalla completa |
 | **Limpiar citas [source]** | ✅ | Regex elimina referencias del chat |
 | **Esqueletos nuevos temas** | ✅ | Sanidad, educación, energía (con [PENDIENTE]) |
+| **Gobernanza y consenso** | ✅ | Afiliados, donaciones, jerarquía vs plano, forks |
+| **Sanidad ampliado** | ✅ | Preventiva, paciente dueño datos, fragmentación |
+| **IA soberanía** | ✅ | No depender de EEUU/China |
+| **ZBE** | ✅ | Criterio emisiones reales, no antigüedad |
+| **Autónomos / funcionariado** | ✅ | Menos trabas, citas; motivación, no relajarse |
+| **Prioridad gasto público** | ✅ | Barbacid vs Broncano, RTVE, salsa rosa |
+| **Blockchain** | ✅ | Casos de uso definidos (trazabilidad, datos paciente) |
 
 ---
 

@@ -91,7 +91,7 @@ Autónomo debe pagar a Hacienda: 210€ IVA + IRPF
 | Gestoría mensual | 50€ - 150€ |
 | Cumplimiento normativo | Variable |
 
-### 4. Burocracia del Emprendimiento
+### 4. Burocracia del Emprendimiento: Demasiadas Trabas, Citas y Trámites
 
 **Trámites para abrir un negocio:**
 - Licencia de actividad (meses de espera)
@@ -99,6 +99,14 @@ Autónomo debe pagar a Hacienda: 210€ IVA + IRPF
 - Autorizaciones sectoriales
 - Alta en múltiples registros
 - Certificados de todo tipo
+
+**Problemas específicos que hay que atajar:**
+- **Citas y plazos**: Citas en Hacienda, Seguridad Social, ayuntamientos, con esperas de semanas o meses; el autónomo pierde jornadas de trabajo solo para cumplir obligaciones administrativas.
+- **Ventanillas dispersas**: Mismo trámite en varios sitios (Estado, CCAA, ayuntamiento); falta de ventanilla única real.
+- **Documentación redundante**: Misma información pedida una y otra vez; sin interoperabilidad entre administraciones.
+- **Horarios incompatibles**: Ventanillas solo en horario laboral; quien trabaja por cuenta propia no puede ir sin cerrar el negocio o perder el día.
+
+**Consecuencia**: Se desincentiva regularizarse y emprender. Hay que **incentivar al autónomo** con menos trabas, no con más: menos citas presenciales obligatorias, más trámites 100% online, plazos cortos y silencio positivo.
 
 **Tiempo medio para abrir empresa en España:** [PENDIENTE: dato Doing Business]
 
@@ -153,14 +161,18 @@ Autónomo debe pagar a Hacienda: 210€ IVA + IRPF
 | IRPF al cobro | Idem |
 | Morosidad | No penaliza fiscalmente al acreedor |
 
-### 3. Simplificación de Trámites
+### 3. Simplificación de Trámites e Incentivos al Autónomo
 
 | Propuesta | Detalle |
 |-----------|---------|
-| Alta en 24h | Completamente online |
-| Ventanilla única | Un solo punto para todos los permisos |
+| Alta en 24h | Completamente online, sin citas presenciales obligatorias |
+| Ventanilla única | Un solo punto para todos los permisos (Estado + CCAA + local) |
 | Licencia express | Para actividades de bajo riesgo |
-| Silencio positivo | Si no responden, se entiende aprobado |
+| Silencio positivo | Si no responden en plazo, se entiende aprobado |
+| **Menos citas** | Eliminar citas presenciales innecesarias; todo lo que se pueda, online y con identificación digital |
+| **Plazos cortos** | Respuesta administrativa en días, no meses |
+| **Incentivos fiscales** | Deducciones por inversión, primer empleado, formación; tarifa plana real los primeros años |
+| **Un solo interlocutor** | Gestión con una sola administración cuando sea posible (ej. delegación de competencias) |
 
 ### 4. Tarifa Plana Real
 

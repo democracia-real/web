@@ -50,6 +50,14 @@ El empleo público en España presenta problemas estructurales de **incentivos, 
 - "Siempre se ha hecho así"
 - Compañerismo que encubre bajo rendimiento
 
+**5. Desmotivación Tras la Oposición: "Aprobado = Relajarse"**
+
+- Una vez aprobada la oposición, la plaza es vitalicia y la promoción depende sobre todo de antigüedad.
+- No hay incentivos claros para seguir esforzándose; el que se relaja no pierde el puesto ni suele tener consecuencias.
+- **Demasiados funcionarios** en algunos ámbitos, con tareas que no llenan la jornada o que se podrían hacer más eficientes.
+- Falta un mecanismo que **asegure motivación y evite la relajación**: evaluación real, formación obligatoria con impacto, retribución o reconocimiento ligado al rendimiento.
+- Objetivo: que **ser más eficiente y mantener el nivel** compense, y que no compense "pasarse la vida esperando la jubilación".
+
 ## Análisis de Causa Raíz
 
 ```
@@ -121,14 +129,16 @@ DISEÑO DEL SISTEMA DE EMPLEO PÚBLICO (heredado y no reformado)
 
 ## Propuestas de Solución
 
-### 1. Implementar Evaluación del Desempeño Real
+### 1. Implementar Evaluación del Desempeño Real (y Evitar que se Relajen)
 
 | Propuesta | Detalle |
 |-----------|---------|
 | Objetivos medibles | Para cada puesto |
 | Evaluación anual | Con metodología transparente |
-| Consecuencias | Positivas (incentivos) y negativas (formación, reasignación) |
+| Consecuencias | Positivas (incentivos, promoción) y negativas (formación obligatoria, reasignación, en último extremo expediente) |
 | Publicidad | Resultados agregados por unidad |
+| **Motivación continua** | Que aprobar la oposición no sea "meta final"; revisión periódica de competencias y resultados para mantener motivación y nivel |
+| **Menos plazas donde sobra** | Revisar dotaciones; reasignar o no reponer donde la carga de trabajo no justifica el número de efectivos |
 
 ### 2. Retribución Variable Significativa
 

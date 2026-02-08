@@ -27,6 +27,8 @@ Este módulo documenta los **problemas estructurales** del sistema político-adm
 | [educacion.md](educacion.md) | Inestabilidad legislativa y resultados |
 | [energia.md](energia.md) | Precios, oligopolio y transición renovable |
 | [seguridad_ciudadana_e_impunidad.md](seguridad_ciudadana_e_impunidad.md) | Ciberdelitos, hurtos, ocupación, fraude en prestaciones |
+| [zonas_bajas_emisiones.md](zonas_bajas_emisiones.md) | ZBE: no por antigüedad del vehículo, sí por emisiones reales |
+| [prioridad_gasto_publico.md](prioridad_gasto_publico.md) | Investigación vs entretenimiento, RTVE, prioridades del gasto |
 
 ## Mapa de Problemas
 

@@ -10,10 +10,8 @@ Este módulo define la **estructura y funcionamiento interno** del nuevo partido
 
 | Documento | Contenido |
 |-----------|-----------|
-| [estatutos_base.md](estatutos_base.md) | Borrador de estatutos del partido |
-| [democracia_interna.md](democracia_interna.md) | Mecanismos de participación y decisión |
+| [gobernanza_consenso_afiliacion.md](gobernanza_consenso_afiliacion.md) | Consenso, votación, afiliados, donaciones, jerarquía vs plano |
 | [codigo_etico.md](codigo_etico.md) | Principios de conducta y sanciones |
-| [estructura_territorial.md](estructura_territorial.md) | Organización geográfica |
 
 ## Principios Organizativos
 
