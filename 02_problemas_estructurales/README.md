@@ -25,10 +25,16 @@ Este módulo documenta los **problemas estructurales** del sistema político-adm
 | [sistema_pensiones.md](sistema_pensiones.md) | Insostenibilidad del sistema de reparto |
 | [sanidad.md](sanidad.md) | Fragmentación y listas de espera |
 | [educacion.md](educacion.md) | Inestabilidad legislativa y resultados |
-| [energia.md](energia.md) | Precios, oligopolio y transición renovable |
+| [energia.md](energia.md) | Precios, oligopolio, dependencia y mix (solar, eólica, nuclear) |
+| [compra_publica_producto_nacional.md](compra_publica_producto_nacional.md) | Favorecer producto nacional en compra pública cuando haya equivalencia |
 | [seguridad_ciudadana_e_impunidad.md](seguridad_ciudadana_e_impunidad.md) | Ciberdelitos, hurtos, ocupación, fraude en prestaciones |
 | [zonas_bajas_emisiones.md](zonas_bajas_emisiones.md) | ZBE: no por antigüedad del vehículo, sí por emisiones reales |
 | [prioridad_gasto_publico.md](prioridad_gasto_publico.md) | Investigación vs entretenimiento, RTVE, prioridades del gasto |
+| [vivienda_y_suelo.md](vivienda_y_suelo.md) | Suelo municipal, escasez artificial, oferta indexada a demanda |
+| [justicia_fiscal_autonomos.md](justicia_fiscal_autonomos.md) | Pago por cobro real, IVA/IRPF al cobrar, cuotas justas |
+| [mapa_puertas_giratorias.md](mapa_puertas_giratorias.md) | Documentar contactos consejos–ex-políticos |
+| [auditoria_fondos_europeos.md](auditoria_fondos_europeos.md) | Auditoría de resultados, caso 70M€, metodología |
+| [coste_politico_vitalicio.md](coste_politico_vitalicio.md) | Gasto en ex-cargos, escoltas, privilegios vitalicios |
 
 ## Mapa de Problemas
 

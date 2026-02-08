@@ -67,6 +67,14 @@
 
 La tecnología (incluido blockchain donde aporte valor) debe servir para **garantizar propiedad, trazabilidad y control** del paciente sobre sus datos, no para que los datos queden en silos de cada administración o aseguradora.
 
+### Organizaciones de Pacientes: Visibilidad y Dinero Desigual
+
+**Problema**: Las organizaciones de pacientes compiten por atención, fondos y cambios legales. La que **más destaca** (medios, movilización) suele llevarse **más dinero y más leyes**, aunque el número de afectados sea menor. Ejemplo: en España hay unos **4.000 afectados por ELA**, pero hay **muchas más enfermedades** (raras, crónicas, neurodegenerativas) con decenas o cientos de miles de afectados que no logran la misma visibilidad ni prioridad política.
+
+**Consecuencia**: Asignación de recursos y reformas legales guiada por **capacidad de lobby y visibilidad**, no solo por carga de enfermedad o número de personas afectadas. Riesgo de desigualdad entre enfermedades "mediáticas" y el resto.
+
+**Principio**: Criterios **transparentes y evaluables** para financiación pública de investigación y atención por patología (carga de enfermedad, años de vida perdidos, impacto en dependencia, etc.), sin que el que "grita más" acapare desproporcionadamente. Las asociaciones de pacientes son legítimas; el sistema no debe depender de cuál hace mejor campaña.
+
 ## Comparativa Internacional
 
 | País | Modelo | Fortalezas | Debilidades |

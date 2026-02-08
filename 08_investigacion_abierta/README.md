@@ -14,6 +14,8 @@ Este módulo establece la **metodología de investigación continua** para ident
 | [fuentes_datos.md](fuentes_datos.md) | Dónde obtenemos información |
 | [preguntas_abiertas.md](preguntas_abiertas.md) | Qué queremos averiguar |
 | [colaboradores.md](colaboradores.md) | Quién colabora y cómo |
+| [tematicas_emergentes_y_modelos_programaticos.md](tematicas_emergentes_y_modelos_programaticos.md) | Temáticas a incluir en el programa y modelos de partidos de referencia (Pirata, Más País, Volt, Podemos) |
+| [mensaje_inclusivo_juventud.md](mensaje_inclusivo_juventud.md) | Hablar a todos los jóvenes; cambio real con derechos, sin dictaduras; no excluir por etiqueta |
 
 ## Principios de Investigación
 

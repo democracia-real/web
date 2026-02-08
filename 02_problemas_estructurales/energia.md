@@ -58,6 +58,10 @@
 | Dinamarca (eólica) | [PENDIENTE] | | |
 | Portugal | [PENDIENTE] | | |
 
+## Posición de Principio: No Dependencia Energética
+
+**Objetivo**: Reducir la dependencia energética del exterior y de oligopolios mediante un **mix diversificado** (solar, eólica, nuclear según criterios técnicos, seguridad y coste), no por ideología sino por soberanía energética y precios estables. Incluye apoyo a autoconsumo y comunidades energéticas sin trabas burocráticas.
+
 ## Propuestas (ver módulo 03)
 
 - [PENDIENTE] Enlace a documento de propuestas

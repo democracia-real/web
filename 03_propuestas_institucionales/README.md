@@ -20,6 +20,10 @@ Este módulo presenta **propuestas concretas de reforma** para abordar los probl
 | [reforma_fiscal.md](reforma_fiscal.md) | Sistema tributario y autónomos |
 | [planificacion_largo_plazo.md](planificacion_largo_plazo.md) | Visión de Estado a 10-20 años |
 | [reforma_pensiones.md](reforma_pensiones.md) | Sistema de pensiones sostenible |
+| [ley_anti_decretos.md](ley_anti_decretos.md) | Limitar decreto-ley a emergencias reales |
+| [reforma_funcionariado_eficiente.md](reforma_funcionariado_eficiente.md) | KPIs, fin plaza vitalicia sin rendición de cuentas |
+| [independencia_digital_justicia.md](independencia_digital_justicia.md) | Comunicaciones oficiales inalterables, anti-borrado WhatsApp |
+| [plantilla_redaccion_propuestas.md](plantilla_redaccion_propuestas.md) | Plantilla estándar: diagnóstico, objetivos, medidas, coste/viabilidad, indicadores |
 
 ## Principios de las Propuestas
 
@@ -131,6 +135,10 @@ Para cada reforma, definimos cómo medir si funciona:
 | Administrativa | Tiempo de trámites, satisfacción ciudadana |
 | Fiscal | Emprendimiento, economía sumergida |
 | Corrupción | Índice Transparency International |
+
+## Cómo Redactar Propuestas
+
+Para homogeneizar y dar rigor a cada propuesta, se usa la [plantilla estándar de redacción](plantilla_redaccion_propuestas.md): diagnóstico del problema, objetivos, medidas concretas, coste/viabilidad e indicadores de evaluación. Ver también [temáticas emergentes y modelos programáticos](../08_investigacion_abierta/tematicas_emergentes_y_modelos_programaticos.md) para coherencia con el programa ampliado.
 
 ## Referencias Cruzadas
 

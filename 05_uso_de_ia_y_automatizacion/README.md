@@ -13,6 +13,9 @@ Este módulo desarrolla la propuesta central y diferenciadora del proyecto: el u
 | [auditoria_algoritmica.md](auditoria_algoritmica.md) | IA para detectar corrupción y fraude |
 | [soberania_ia_europa.md](soberania_ia_europa.md) | No depender de EEUU/China; innovación propia en IA |
 | [blockchain_casos_uso.md](blockchain_casos_uso.md) | Para qué usar blockchain: trazabilidad, datos paciente, votaciones |
+| [ia_supervisada_presupuestos.md](ia_supervisada_presupuestos.md) | IA para detectar desviaciones en licitaciones en tiempo real |
+| [automatizacion_burocratica.md](automatizacion_burocratica.md) | Reducir trámites manuales con agentes de IA |
+| [etica_y_supervision_humana.md](etica_y_supervision_humana.md) | Protocolo IA con humano en el bucle |
 | [democracia_liquida.md](democracia_liquida.md) | Plataformas de participación ciudadana |
 | [participacion_ciudadana.md](participacion_ciudadana.md) | Síntesis de propuestas con NLP |
 | [integridad_digital.md](integridad_digital.md) | Blockchain para trazabilidad |
