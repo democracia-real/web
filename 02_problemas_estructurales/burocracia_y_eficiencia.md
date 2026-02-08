@@ -32,6 +32,10 @@ La burocracia española se caracteriza por una **excesiva complejidad**, **dupli
   - Estado (según sector)
   - Cada uno con su trámite, plazos y requisitos
 
+### Coste de la No-Interoperabilidad
+
+El ciudadano hace de **"mensajero"** entre administraciones: Seguridad Social, Hacienda y Ayuntamiento (y otras) no comparten bases de datos, así que el mismo dato hay que aportarlo varias veces y el mismo trámite depende de varias ventanillas. [PENDIENTE: Cuantificar cuántas horas pierde un ciudadano al año en este papel de intermediario y qué coste económico representa.]
+
 ### 3. Plazos Irracionales
 
 | Trámite | Plazo Legal | Plazo Real (Estimado) |

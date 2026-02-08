@@ -20,23 +20,23 @@ Esto solo funciona si hay **suficientes cotizantes por cada pensionista**.
 
 | Indicador | Valor Actual | Valor Necesario |
 |-----------|--------------|-----------------|
-| Ratio cotizantes/pensionistas | ~2:1 | ~4:1 |
+| Ratio cotizantes/pensionistas | **2,1** (el sistema entra en riesgo crítico si baja de 2,0) | ~4:1 para equilibrio |
 | Tasa de natalidad | 1.16 hijos/mujer | 2.1 (reemplazo) |
 | Esperanza de vida a los 65 | 21 años | - |
 | Edad media de jubilación efectiva | 64.2 años | - |
 
-### Proyecciones
+### Proyecciones (AIReF)
 
 - **2030**: Se espera ratio 1.8:1
-- **2050**: Proyección de ratio 1.2:1 (casi un cotizante por pensionista)
+- **2050**: La AIReF advierte que el ratio bajará a **1,3** (un cotizante por cada 1,3 pensionistas), lo que haría el sistema **matemáticamente insostenible** bajo el modelo de reparto actual.
 - **Baby boomers**: Generación masiva (1960-1975) empezando a jubilarse
 
 ## Déficit y Financiación Actual
 
 ### El Agujero Anual
 
-- Déficit anual de la Seguridad Social: **~20.000 millones €**
-- Se cubre con transferencias del Estado (impuestos generales)
+- **Déficit contributivo**: se estima en **15.000 millones € anuales** (cubierto con transferencias del Estado para "gastos impropios").
+- **Gasto en pensiones**: ya supone el **11,5% del PIB** y subiendo.
 - Deuda acumulada de la Seguridad Social: >100.000 millones €
 
 ### El "Fondo de Reserva" (Hucha de las Pensiones)

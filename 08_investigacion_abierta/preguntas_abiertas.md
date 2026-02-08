@@ -16,6 +16,15 @@ Este documento lista las **preguntas de investigación** que necesitamos respond
 | 1.4 | ¿Cuántas proposiciones de ley de la oposición se aprueban vs. proyectos del gobierno? | Media | Pendiente |
 | 1.5 | ¿Qué porcentaje de iniciativas legislativas populares llegan a debatirse? | Media | Pendiente |
 
+### Oligarquía, asesoría y despilfarro
+
+| # | Pregunta | Prioridad | Estado |
+|---|----------|-----------|--------|
+| 1.6 | ¿Cuántos ex-ministros y secretarios de Estado de los últimos 20 años ocupan hoy asientos en consejos de administración del IBEX35? | Alta | Pendiente |
+| 1.7 | ¿Cuál es el ratio de "personal eventual" (asesores a dedo) en España comparado con la media de la UE para el mismo volumen de población? | Alta | Pendiente |
+| 1.8 | ¿Cuál es la vida media de una ley en España antes de ser modificada o derogada parcialmente? (Índice de estabilidad legislativa) | Alta | Pendiente |
+| 1.9 | En proyectos como el de 70M€ (ensayos clínicos), ¿qué % del dinero llega a la implementación técnica vs. el que se queda en "gestión de consorcios" y consultoría? | Alta | Pendiente |
+
 ### Separación de Poderes
 
 | # | Pregunta | Prioridad | Estado |
@@ -122,6 +131,17 @@ Este documento lista las **preguntas de investigación** que necesitamos respond
 | 12.2 | ¿Cuáles son los riesgos documentados de IA en decisiones públicas? | Alta | Pendiente |
 | 12.3 | ¿Qué plataformas de participación ciudadana digital existen y cuál es su adopción? | Media | Pendiente |
 | 12.4 | ¿Qué experiencias de voto electrónico existen y qué problemas han tenido? | Media | Pendiente |
+
+## Categoría 8: Impacto sectorial (sanidad, ZBE, seguridad, energía)
+
+Vinculadas al diagnóstico del [módulo 02](../02_problemas_estructurales/README.md#preguntas-de-investigación-prioritarias):
+
+| # | Pregunta | Prioridad | Estado |
+|---|----------|-----------|--------|
+| 13.1 | ¿Qué % de la reducción de emisiones en ZBE se debe a mejora real del parque móvil y cuánto es desplazamiento del tráfico (y polución) a barrios colindantes? | Alta | Pendiente |
+| 13.2 | ¿Cuánto ahorraría el SNS con un 10% más en diagnóstico temprano (IA, cribados) vs. coste de tratar enfermedad en fase terminal/crónica avanzada? | Alta | Pendiente |
+| 13.3 | ¿Cuál es la tasa real de reincidencia en hurto multirreincidente antes de que el delincuente pise la cárcel? (Reforma CP, falta de juzgados.) | Alta | Pendiente |
+| 13.4 | ¿Qué capacidad de almacenamiento (baterías/hidrógeno) necesita España para no perder/regalar excedente renovable mientras el ciudadano paga gas caro? | Alta | Pendiente |
 
 ## Formato de Respuesta
 

@@ -71,8 +71,14 @@ Total: 350 diputados
 - Las provincias menos pobladas tienen más escaños per cápita
 - El voto en provincias pequeñas "vale más"
 
-**Ejemplo:**
-- [PENDIENTE: Calcular coste en votos de un escaño en Madrid vs Soria]
+**Ejemplo (datos 2023):**
+
+| Provincia | Votos por escaño (aprox.) | Efecto |
+|-----------|---------------------------|--------|
+| Soria | 14.700 – 18.600 votos | Un escaño "cuesta" muchos menos votos |
+| Madrid | ~95.000 votos por escaño | Un escaño requiere muchos más votos |
+
+**Conclusión**: El voto de un ciudadano en Soria "vale" **casi 6 veces más** que el de uno en Madrid en términos de representación directa.
 
 ### 4. Barrera del 3% Inefectiva
 

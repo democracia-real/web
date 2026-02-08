@@ -3,7 +3,7 @@
 ## Resumen
 
 España enfrenta una **crisis habitacional estructural** caracterizada por:
-- Vivienda pública inferior al 2,5% del parque total (media UE >9%)
+- Vivienda social: España 2,5% vs media UE 9,3% (Países Bajos 30%, Austria 24%)
 - Precios de compra y alquiler desconectados de salarios
 - Burocracia urbanística que limita la oferta
 - Especulación tolerada e incentivada fiscalmente
@@ -14,23 +14,29 @@ España enfrenta una **crisis habitacional estructural** caracterizada por:
 
 | Indicador | España | Media UE |
 |-----------|--------|----------|
-| Vivienda social | ~2,5% | ~9% |
-| Vivienda protegida nueva/año | [DATO] | [DATO] |
-| Lista de espera | [DATO] | - |
+| Vivienda social | **2,5%** | **9,3%** (Países Bajos 30%, Austria 24%) |
+| Vivienda protegida nueva/año | **<9.000** (última década); en 2006 eran **60.000**/año | — |
+| Lista de espera | **>250.000** solicitudes registradas | — |
 
 **El problema:** No hay alternativa pública para quienes no pueden acceder al mercado privado.
 
+*Análisis:* La **caída del 85%** en la construcción de vivienda protegida desde 2006 explica por qué no hay "colchón" público ante las subidas del mercado libre. En Europa la vivienda social sirve para moderar el mercado; en España es testimonial.
+
 ### 2. Precios Desconectados de Salarios
 
-**Evolución:**
-- [PENDIENTE: Gráfico evolución precio vivienda vs salarios]
-- Ratio precio/salario anual: [DATO]
-- Esfuerzo para acceder a vivienda: [DATO]% de ingresos
+**Evolución (Banco de España / INE / Observatorio de Emancipación):**
+- **Ratio precio/salario (compra):** Actualmente **7,7 años** de salario bruto íntegro para comprar una vivienda. En **1985** el ratio era de **2,8 años**: hoy es **casi 3 veces más difícil** comprar que hace 40 años, a pesar de la mejora en la tecnología de construcción.
+- **Esfuerzo del hogar medio:** El hogar medio destina el **39%** de sus ingresos al pago de vivienda (alquiler o hipoteca). En Madrid, Barcelona o Palma **supera el 50%**.
+- **Esfuerzo joven en solitario (alquiler):** Un joven medio debe dedicar el **83,7%** de su sueldo neto para alquilar una vivienda en solitario (Observatorio de Emancipación, datos 2024). En **Madrid, Barcelona y Baleares** este esfuerzo **supera el 90%** en muchos tramos de edad.
+- **Emancipación:** Edad media en España **30,4 años**; media UE **26,3 años**; países nórdicos **inferior a 21**.
 
-**Alquiler:**
-- Incrementos muy por encima del IPC en grandes ciudades
-- Expulsión de residentes de barrios céntricos
-- Jóvenes emancipándose más tarde que media UE
+**Alquiler:** Incrementos muy por encima del IPC en grandes ciudades; expulsión de residentes de barrios céntricos.
+
+**Vivienda vacía:** Se estima en **3,4 millones de unidades** (INE), aunque muchas están en zonas sin demanda.
+
+### Análisis del "cerrojo" urbanístico
+
+Como se desarrolla en [vivienda_y_suelo.md](vivienda_y_suelo.md), la combinación de **(1)** suelo escaso por burocracia, **(2)** vivienda pública casi inexistente por falta de inversión y **(3)** costes de construcción al alza (inflación de materiales) crea una **tormenta perfecta**: el único que puede comprar es quien ya tiene capital (inversores) o ayuda familiar, **expulsando al trabajador joven** del sistema de propiedad.
 
 ### 3. Burocracia Urbanística
 

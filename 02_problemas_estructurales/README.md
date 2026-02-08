@@ -178,6 +178,19 @@ Muchos problemas están conectados:
 - Think tanks (FEDEA, Funcas, etc.)
 - Informes del Consejo de Estado
 
+## Preguntas de Investigación (prioritarias)
+
+Para profundizar el diagnóstico con datos que "duelan" y fundamenten propuestas:
+
+| Área | Pregunta |
+|------|----------|
+| **ZBE y recaudación** | ¿Qué % de la reducción de emisiones en las ZBE se debe a mejora real del parque móvil y cuánto es solo desplazamiento del tráfico (y la polución) a barrios colindantes más pobres? |
+| **Coste de la no-prevención** | ¿Cuánto ahorraría el SNS si se invirtiera un 10% más en diagnóstico temprano (IA, cribados masivos) frente al coste actual de tratar enfermedades en fase terminal o crónica avanzada? |
+| **Seguridad e impunidad** | ¿Cuál es la tasa real de reincidencia en delitos de hurto multirreincidente antes de que el delincuente pise la cárcel? (Relación con la reforma del Código Penal y la falta de juzgados.) |
+| **Soberanía energética** | ¿Qué capacidad de almacenamiento real (baterías/hidrógeno) necesita España para que el excedente de renovables no se pierda o se regale a precio cero a Francia mientras el ciudadano paga el gas caro? |
+
+Ver también [08_investigacion_abierta/preguntas_abiertas.md](../08_investigacion_abierta/preguntas_abiertas.md).
+
 ## Contribuir a este Módulo
 
 Áreas prioritarias para investigación:

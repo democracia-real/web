@@ -41,6 +41,10 @@ La corrupción en España no es un problema de "manzanas podridas" sino un **fen
 - Copias en servidores fuera de jurisdicción
 - Cultura de "no pasa nada"
 
+### Auditoría Inmutable (propuesta)
+
+Uso de una **red de registro inmutable** (blockchain o similar) para que **cualquier modificación de un contrato público** quede registrada y sea **imposible de borrar** o "perder" (p. ej. en un incendio de despachos). Los documentos y versiones quedarían con huella verificable; la trazabilidad sería obligatoria por diseño, no por confianza en el custodio.
+
 ## Análisis de Causa Raíz
 
 ```

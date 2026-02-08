@@ -32,9 +32,12 @@ En muchas ZBE españolas el acceso se restringe según:
 | Criterio | Descripción |
 |----------|-------------|
 | **ITV y emisiones** | Que la ITV mida emisiones reales; que el resultado influya en si puedes acceder a ZBE (por debajo de cierto umbral, acceso permitido). |
+| **Pasaporte de Emisiones Reales** | Basado en la **lectura de la centralita (OBD)** durante la ITV, sustituyendo a la pegatina de colores actual que es un criterio "por fecha de nacimiento". El pasaporte reflejaría emisiones reales medidas, no solo la norma Euro del vehículo. |
 | **Etiqueta basada en medición** | Etiqueta dinámica según última ITV de emisiones (no solo año): quien contamina por encima del límite, restricción; quien no, puede circular. |
 | **Excepciones justificadas** | Vehículos esenciales (profesionales, sanitarios, personas con movilidad reducida, etc.) con reglas claras. |
 | **Transición** | Período de adaptación: primero información y medición; después restricción progresiva según datos reales. |
+
+*Argumento clave:* Un coche de 2015 (Euro 6) bien mantenido puede ser "peor" tratado que un SUV híbrido de 2,5 toneladas que circula siempre en modo combustión: la ley actual comete un fallo lógico al basarse en la antigüedad en lugar de en emisiones reales.
 
 ## Resumen
 

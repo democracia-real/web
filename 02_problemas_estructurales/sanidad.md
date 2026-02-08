@@ -2,7 +2,7 @@
 
 ## Resumen Ejecutivo
 
-[PENDIENTE] Análisis del sistema sanitario español, sus fortalezas y debilidades estructurales.
+Análisis del sistema sanitario español: listas de espera en máximos históricos (174 días quirúrgica, 121 especialista), más de 849.000 personas en espera de operación, gasto público 7,3% PIB (por debajo de OCDE 9,2% y de Alemania/Francia 10-11%).
 
 ## El Problema
 
@@ -13,13 +13,13 @@
 - Duplicidades administrativas
 - Desigualdades territoriales en prestaciones
 
-### Listas de Espera
+### Listas de Espera (datos 2024, fuente: SISLE-SNS)
 
 | Indicador | Valor | Fuente |
 |-----------|-------|--------|
-| Espera media consulta especialista | [PENDIENTE] días | SNS |
-| Espera media intervención quirúrgica | [PENDIENTE] días | SNS |
-| Pacientes en espera total | [PENDIENTE] | SNS |
+| Espera media especialista | **121 días** | SISLE-SNS |
+| Espera media quirúrgica | **174 días** | SISLE-SNS |
+| Pacientes en lista de espera total | **849.535** personas (récord histórico) | SISLE-SNS |
 
 ### Recursos Humanos
 
@@ -30,9 +30,12 @@
 
 ### Financiación
 
-- Gasto sanitario % PIB vs media OCDE
-- Copago farmacéutico
-- Sanidad privada como "válvula de escape"
+| Indicador | España | Media OCDE | Referencia |
+|-----------|--------|------------|------------|
+| Gasto sanitario público % PIB | **7,3%** | **9,2%** | OCDE |
+| Alemania / Francia | — | 10-11% | Comparativa |
+
+España invierte menos que la media OCDE en sanidad pública; países como Alemania o Francia superan el 10-11%. Copago farmacéutico; sanidad privada como "válvula de escape".
 
 ### Modelo Reactivo vs Preventivo
 
@@ -77,16 +80,21 @@ La tecnología (incluido blockchain donde aporte valor) debe servir para **garan
 
 ## Comparativa Internacional
 
+En el análisis internacional es clave distinguir entre modelos de **Seguridad Social (Bismarck)** y de **Servicio Nacional (Beveridge)**. España es un **híbrido** que tiende al segundo, pero con gestión autonómica fragmentada.
+
 | País | Modelo | Fortalezas | Debilidades |
 |------|--------|------------|-------------|
-| Reino Unido (NHS) | [PENDIENTE] | | |
-| Alemania | [PENDIENTE] | | |
-| Francia | [PENDIENTE] | | |
-| Países Nórdicos | [PENDIENTE] | | |
+| **Reino Unido (NHS)** | Beveridge (público) | Financiación vía impuestos. Acceso universal gratuito en el punto de servicio. Gran eficiencia en compras centralizadas. | Listas de espera críticas (peores que en España). Falta de inversión en infraestructuras y huelgas médicas recurrentes. |
+| **Alemania** | Bismarck (seguros) | Financiación vía nómina. Elección libre de médico y hospital. Casi no existen listas de espera para especialistas. | Muy caro (12% del PIB). Aseguradoras privadas paralelas generan cierta desigualdad de trato. |
+| **Francia** | Mixto / reembolso | Buen equilibrio público-privado. Pacientes pagan y reciben reembolso (copago responsable). | Alto coste para el Estado. Burocracia en reembolsos para rentas bajas. |
+| **Países Nórdicos** | Descentralizado | Gestión muy local con altísima inversión tecnológica (digitalización total). Enfoque en prevención y salud mental. | Impuestos muy elevados. En Suecia, tiempos de espera para cirugía no urgente pueden ser largos según la región. |
 
 ## Propuestas (ver módulo 03)
 
-- [PENDIENTE] Enlace a documento de propuestas
+- **Centralización de datos:** Tarjeta Sanitaria Única real e interoperable para eliminar el "muro" de datos entre CCAA.
+- **Incentivos a la prevención:** Desgravaciones fiscales por hábitos saludables demostrables y refuerzo de la Atención Primaria como filtro real.
+- **Gestión por resultados:** Auditoría externa de la eficiencia de cada hospital (público o concertado) con publicación abierta de tasas de éxito y tiempos de espera.
+- **Soberanía farmacéutica:** Compra centralizada nacional (o europea) para aumentar el poder de negociación frente al oligopolio farmacéutico.
 
 ## Referencias
 

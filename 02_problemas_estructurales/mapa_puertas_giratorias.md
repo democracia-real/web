@@ -10,6 +10,14 @@ Documentar de forma **sistemática** los contactos entre **consejos de administr
 - **Fuentes**: Registros de consejos (CNMV, registros mercantiles), hemeroteca, declaraciones de actividades.
 - **Uso**: Informes públicos, propuestas de ley (incompatibilidades, cooling-off period).
 
+## Idea técnica: mapa interactivo de grafos
+
+**Herramienta visual** (tipo Obsidian o Kumu):
+
+- **Nodos**: Políticos (ex-ministros, ex-secretarios de Estado) y empresas del IBEX (o sectores regulados).
+- **Aristas**: Paso de uno a otro; cargo ocupado; si hubo periodo de enfriamiento (sí/no, duración).
+- **Dato de referencia**: Actualmente, **más del 30% de los ex-ministros vivos de los últimos 40 años** han pasado por consejos de administración de sectores regulados (Energía y Banca principalmente). Un mapa de grafos haría visible esta red y permitiría filtrar por sector, legislatura o tiempo desde el cese.
+
 ## Relación
 
 - Metodología y casos que complementan [puertas_giratorias.md](puertas_giratorias.md).

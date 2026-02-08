@@ -12,13 +12,13 @@ Cálculo y transparencia del **gasto en sueldos ex oficio, escoltas, asesores y 
 
 ## Dimensiones a Documentar
 
-| Concepto | Descripción | [PENDIENTE] |
-|----------|-------------|-------------|
-| Sueldos ex oficio | Retribuciones de expresidentes y equivalentes | |
-| Escoltas y seguridad | Coste medios humanos y logísticos | |
-| Oficinas y asesores | Recursos asignados a ex-cargos | |
-| Otros privilegios | Viajes, protocolo, etc. | |
-| **Total estimado** | Por persona y agregado nacional | |
+| Concepto | Descripción | Dato / Estimación |
+|----------|-------------|-------------------|
+| Sueldos ex oficio | Retribuciones de expresidentes y equivalentes | **~75.000 €/año** por ex-presidente (asignación congelada) |
+| Oficinas y asesores | Dos asesores (nivel 30 y 28) y dotación para gastos de oficina | **~80.000 €/año** por ex-presidente |
+| Otros privilegios | Coche oficial con chófer, seguridad del Ministerio del Interior, libre pase en transportes del Estado (AVE/avión) | Protocolo y uso de medios del Estado |
+| Escoltas y seguridad | Coste medios humanos y logísticos | **Más de 3 millones €/año** en conjunto; el coste de la seguridad **puede triplicar** el resto por ex-presidente |
+| **Total estimado por ex-presidente** | Asignación + oficina (sin seguridad) | **150.000 - 200.000 €/año**; con seguridad, la cifra puede triplicarse |
 
 ## Fuentes
 

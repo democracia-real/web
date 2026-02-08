@@ -105,21 +105,32 @@ El sistema premia:
 ## Datos Clave
 
 ### Desafección Política
-- [PENDIENTE: Incluir datos CIS sobre confianza en políticos]
-- [PENDIENTE: Evolución abstención electoral]
-- [PENDIENTE: Percepción de corrupción según Eurobarómetro]
+- **Confianza en políticos (CIS, 2025)**: La confianza media en la clase política se sitúa en **3,4 sobre 10**. El **43%** de la población muestra grados intensos de desconfianza en el Congreso.
+- **Abstención electoral**: Ha pasado de un **22,2%** en las primeras elecciones de 1977 a picos de casi **33%** en las repeticiones electorales de 2019, reflejando una desafección creciente.
+- **Corrupción (Transparencia Internacional, 2024)**: España bajó 4 puntos en el Índice de Percepción de la Corrupción, situándose en el **puesto 46 del mundo** y el **18 de la UE-27**.
 
 ### Eficiencia Comparada
-- [PENDIENTE: Ranking doing business España vs UE]
-- [PENDIENTE: Tiempo medio trámites administrativos]
-- [PENDIENTE: Coste regulatorio por empresa]
+- **Doing Business**: España ocupa el **puesto 30** a nivel mundial en facilidad para hacer negocios.
+- **Trámites**: Crear una empresa de forma presencial toma **55 días** de media, frente a **39** por vía telemática (aún lejos de estándares de "un día" en países bálticos).
+- **Coste regulatorio**: La fragmentación normativa (leyes distintas por CCAA) supone un coste estimado de **1.900 € por hogar al año**.
 
-## Preguntas de Investigación
+## Respuestas a Preguntas de Investigación (actualizado)
 
-1. ¿Cuántos decretos-ley se han aprobado vs leyes ordinarias en las últimas legislaturas?
-2. ¿Qué porcentaje de diputados ha votado alguna vez contra su grupo parlamentario?
-3. ¿Cuál es el perfil medio de un diputado español? (formación, experiencia previa)
-4. ¿Cuántas políticas de una legislatura son revertidas por la siguiente?
+| Pregunta | Respuesta / Dato |
+|----------|------------------|
+| ¿Decretos-ley vs leyes ordinarias? | En la **XIV Legislatura** se aprobaron **65 Reales Decretos-Leyes** frente a **83 leyes ordinarias**. La tendencia desde la XII legislatura es que el peso del decreto-ley (ejecutivo) supere a menudo la capacidad legislativa del Parlamento. |
+| ¿Diputados disidentes? | La **disciplina de voto es casi del 100%**. Las votaciones contra el grupo son anecdóticas y suelen castigarse con multas (de 200 € a 600 €) o la expulsión de listas futuras. |
+| ¿Perfil medio del diputado? | En la XIV Legislatura, el **77%** tenía licenciatura o grado, el **22%** máster y un **13%** doctorado. La mayoría proviene de la propia estructura de partidos o la administración pública, con **escasa presencia** de perfiles de ingeniería o empresa privada. |
+| ¿Políticas revertidas? | Ejemplo claro: **Educación**. España ha tenido **8 leyes educativas** en democracia (LGE, LOECE, LODE, LOGSE, LOCE, LOE, LOMCE, LOMLOE), casi una por cada cambio de signo en el gobierno. |
+
+## Preguntas de Investigación Abiertas (nuevas)
+
+Para profundizar en oligarquía y despilfarro, ver [08_investigacion_abierta/preguntas_abiertas.md](../08_investigacion_abierta/preguntas_abiertas.md). Destacan:
+
+1. **Puertas giratorias**: ¿Cuántos ex-ministros y secretarios de Estado de los últimos 20 años ocupan hoy asientos en consejos de administración del IBEX35?
+2. **Asesoría a dedo**: ¿Cuál es el ratio de "personal eventual" (asesores políticos) en España comparado con la media de la UE para el mismo volumen de población?
+3. **Estabilidad legislativa**: ¿Cuál es la vida media de una ley en España antes de ser modificada o derogada parcialmente?
+4. **Fondos europeos**: En proyectos como el de 70M€, ¿qué porcentaje del dinero llega a la implementación técnica vs. el que se queda en "gestión de consorcios" y consultoría?
 
 ## Referencias
 

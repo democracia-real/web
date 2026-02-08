@@ -6,7 +6,9 @@ La gestión de fondos europeos en España presenta problemas estructurales de **
 
 ## El Problema en Contexto
 
-### Caso de Estudio: Proyecto de Ensayos Clínicos
+### Caso de Estudio: La Burocracia del Consorcio (70M€)
+
+La estructura de **80 organizaciones** incentiva **gastar el presupuesto** en gestión, reuniones y entregables formales en lugar de **entregar resultado**: una versión funcional se desarrolló en **2 semanas** fuera del consorcio; al año, el consorcio no quiso verla porque prolongar el proyecto es lo que financia a las 80 entidades.
 
 > *"Un proyecto europeo de 70 millones de euros para facilitar ensayos a pacientes, con más de 80 organizaciones involucradas. Nosotros creamos una versión funcional en dos semanas. Al año, cuando quisimos presentarla en el workshop, no quisieron vernos. Nos ven como una amenaza porque quieren seguir estirando para cobrar todo el dinero."*
 

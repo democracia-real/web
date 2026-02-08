@@ -159,9 +159,11 @@ Cada política debe responder a:
 
 ## 📁 Estructura del Repositorio
 
+*Documentos con *(pendiente)* están previstos y aún por desarrollar.*
+
 ```
 politica/
-├── README.md                              # Este documento
+├── Readme.md                              # Este documento
 ├── CONTRIBUTING.md                        # Guía para contribuir
 ├── LICENSE.md                             # Licencia del proyecto
 │
@@ -172,59 +174,85 @@ politica/
 │   ├── sistema_electoral.md
 │   └── comparativa_internacional.md
 │
-├── 02_problemas_estructurales/           # Catálogo de problemas
+├── 02_problemas_estructurales/            # Catálogo de problemas
 │   ├── README.md
 │   ├── corrupcion_e_impunidad.md
 │   ├── burocracia_y_eficiencia.md
 │   ├── puertas_giratorias.md
 │   ├── funcionariado.md
 │   ├── vivienda.md
+│   ├── vivienda_y_suelo.md
 │   ├── autonomos_y_emprendimiento.md
-│   └── fondos_europeos.md
+│   ├── justicia_fiscal_autonomos.md
+│   ├── fondos_europeos.md
+│   ├── auditoria_fondos_europeos.md
+│   ├── sistema_pensiones.md
+│   ├── sanidad.md
+│   ├── educacion.md
+│   ├── energia.md
+│   ├── compra_publica_producto_nacional.md
+│   ├── seguridad_ciudadana_e_impunidad.md
+│   ├── zonas_bajas_emisiones.md
+│   ├── prioridad_gasto_publico.md
+│   ├── mapa_puertas_giratorias.md
+│   └── coste_politico_vitalicio.md
 │
 ├── 03_propuestas_institucionales/        # Soluciones concretas
 │   ├── README.md
 │   ├── reforma_electoral.md
 │   ├── reforma_judicial.md
-│   ├── reforma_administrativa.md
-│   ├── reforma_fiscal.md
-│   └── planificacion_largo_plazo.md
+│   ├── reforma_administrativa.md          # (pendiente)
+│   ├── reforma_fiscal.md                  # (pendiente)
+│   ├── planificacion_largo_plazo.md
+│   ├── reforma_pensiones.md
+│   ├── ley_anti_decretos.md
+│   ├── reforma_funcionariado_eficiente.md
+│   ├── independencia_digital_justicia.md
+│   └── plantilla_redaccion_propuestas.md
 │
 ├── 04_modelo_organizativo_partido/       # Estructura del partido
 │   ├── README.md
-│   ├── estatutos_base.md
-│   ├── democracia_interna.md
+│   ├── gobernanza_consenso_afiliacion.md
 │   ├── codigo_etico.md
-│   └── estructura_territorial.md
+│   ├── estatutos_base.md                 # (pendiente)
+│   ├── democracia_interna.md             # (pendiente)
+│   └── estructura_territorial.md         # (pendiente)
 │
 ├── 05_uso_de_ia_y_automatizacion/        # IA en gobernanza
 │   ├── README.md
 │   ├── auditoria_algoritmica.md
-│   ├── democracia_liquida.md
-│   ├── participacion_ciudadana.md
-│   ├── integridad_digital.md
-│   └── supervisores_humanos.md
+│   ├── soberania_ia_europa.md
+│   ├── blockchain_casos_uso.md
+│   ├── ia_supervisada_presupuestos.md
+│   ├── automatizacion_burocratica.md
+│   ├── etica_y_supervision_humana.md
+│   ├── democracia_liquida.md             # (pendiente)
+│   ├── participacion_ciudadana.md        # (pendiente)
+│   ├── integridad_digital.md             # (pendiente)
+│   └── supervisores_humanos.md           # (pendiente)
 │
 ├── 06_hoja_de_ruta_legal/                # Pasos legales
 │   ├── README.md
-│   ├── requisitos_inscripcion.md
-│   ├── ley_organica_6_2002.md
-│   ├── financiacion_partidos.md
-│   └── timeline_constitucion.md
+│   ├── timeline_constitucion.md
+│   ├── requisitos_inscripcion.md         # (pendiente)
+│   ├── ley_organica_6_2002.md            # (pendiente)
+│   └── financiacion_partidos.md          # (pendiente)
 │
 ├── 07_web_publica_y_transparencia/       # Portal público
 │   ├── README.md
-│   ├── arquitectura_web.md
-│   ├── portal_transparencia.md
-│   ├── participacion_online.md
-│   └── especificaciones_tecnicas.md
+│   ├── arquitectura_web.md               # (pendiente)
+│   ├── portal_transparencia.md          # (pendiente)
+│   ├── participacion_online.md          # (pendiente)
+│   └── especificaciones_tecnicas.md     # (pendiente)
 │
 ├── 08_investigacion_abierta/             # Mejora continua
 │   ├── README.md
-│   ├── metodologia_investigacion.md
-│   ├── fuentes_datos.md
+│   ├── metodologia_investigacion.md      # (pendiente)
+│   ├── fuentes_datos.md                 # (pendiente)
 │   ├── preguntas_abiertas.md
-│   └── colaboradores.md
+│   ├── colaboradores.md                 # (pendiente)
+│   ├── tematicas_emergentes_y_modelos_programaticos.md
+│   └── mensaje_inclusivo_juventud.md
 │
 └── Docs/                                  # Documentación de referencia
     ├── preguntas.txt

@@ -49,9 +49,9 @@ El artículo 86 CE permite al Gobierno dictar decretos-leyes en casos de "extrao
 - No hay debate real sobre el contenido
 - La urgencia rara vez está justificada
 
-**Datos:**
-- [PENDIENTE: Número de decretos-ley por legislatura]
-- [PENDIENTE: Comparativa leyes ordinarias vs decretos-ley]
+**Datos (XIV Legislatura):**
+- Se aprobaron **65 Reales Decretos-Leyes** frente a **83 leyes ordinarias**.
+- La tendencia desde la XII legislatura es que el peso del decreto-ley (ejecutivo) **supere a menudo** la capacidad legislativa del Parlamento.
 
 ### 3. Control Político del Poder Judicial
 

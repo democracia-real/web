@@ -83,6 +83,10 @@ PARTITOCRACIA (nombramiento de "afines" en reguladores)
 
 *Nota: Incluir solo casos documentados públicamente con fuentes verificables.*
 
+### Experiencia comparada: Italia (Ley Severino)
+
+La **prohibición de 3 años de "enfriamiento" (cooling-off)** en Italia redujo drásticamente el paso directo de políticos a consejos de administración. Sin embargo, los datos sugieren que el **lobby se ha desplazado hacia consultoras estratégicas externas**, donde la transparencia es mucho menor. Lección: las incompatibilidades deben cubrir también asesoría y consultoría en el sector regulado, no solo el consejo.
+
 ## Quién se Beneficia
 
 | Actor | Beneficio |
